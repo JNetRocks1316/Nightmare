@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 01416a29515ad38448599fda0748da60
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: HellCatJaw
+    100002: HellCatLEar1
+    100004: HellCatLEar1 1
+    100006: HellCatLEar2
+    100008: HellCatLEar2 1
+    100010: HellCatLFLeg1
+    100012: HellCatLFLeg2
+    100014: HellCatLFLegAnkle
+    100016: HellCatLFLegClaw1
+    100018: HellCatLFLegClaw2
+    100020: HellCatLRLeg1
+    100022: HellCatLRLeg2
+    100024: HellCatLRLeg3
+    100026: HellCatLRLegAnkle
+    100028: HellCatLRLegClaw1
+    100030: HellCatLRLegClaw1 1
+    100032: HellCatPelvis
+    100034: HellCatRFLeg1
+    100036: HellCatRFLeg2
+    100038: HellCatRFLegAnkle
+    100040: HellCatRFLegClaw1
+    100042: HellCatRFLegClaw1 1
+    100044: HellCatRibCage
+    100046: HellCatRRLeg1
+    100048: HellCatRRLeg2
+    100050: HellCatRRLeg3
+    100052: HellCatRRLegAnkle
+    100054: HellCatRRLegClaw1
+    100056: HellCatRRLegClaw1 1
+    100058: HellCatSkull
+    100060: HellCatSpine1
+    100062: HellCatSpine1 1
+    100064: HellCatSpine2
+    100066: HellCatSpine2 1
+    100068: HellCatSpine3
+    100070: HellCatTail1
+    100072: HellCatTail2
+    100074: HellCatTail3
+    100076: HellCatTail4
+    100078: //RootNode
+    100080: SK_Hellcat
+    400000: HellCatJaw
+    400002: HellCatLEar1
+    400004: HellCatLEar1 1
+    400006: HellCatLEar2
+    400008: HellCatLEar2 1
+    400010: HellCatLFLeg1
+    400012: HellCatLFLeg2
+    400014: HellCatLFLegAnkle
+    400016: HellCatLFLegClaw1
+    400018: HellCatLFLegClaw2
+    400020: HellCatLRLeg1
+    400022: HellCatLRLeg2
+    400024: HellCatLRLeg3
+    400026: HellCatLRLegAnkle
+    400028: HellCatLRLegClaw1
+    400030: HellCatLRLegClaw1 1
+    400032: HellCatPelvis
+    400034: HellCatRFLeg1
+    400036: HellCatRFLeg2
+    400038: HellCatRFLegAnkle
+    400040: HellCatRFLegClaw1
+    400042: HellCatRFLegClaw1 1
+    400044: HellCatRibCage
+    400046: HellCatRRLeg1
+    400048: HellCatRRLeg2
+    400050: HellCatRRLeg3
+    400052: HellCatRRLegAnkle
+    400054: HellCatRRLegClaw1
+    400056: HellCatRRLegClaw1 1
+    400058: HellCatSkull
+    400060: HellCatSpine1
+    400062: HellCatSpine1 1
+    400064: HellCatSpine2
+    400066: HellCatSpine2 1
+    400068: HellCatSpine3
+    400070: HellCatTail1
+    400072: HellCatTail2
+    400074: HellCatTail3
+    400076: HellCatTail4
+    400078: //RootNode
+    400080: SK_Hellcat
+    4300000: SK_Hellcat
+    7400000: Attack
+    9500000: //RootNode
+    13700000: SK_Hellcat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HellCatPelvis
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1/HellCatLRLeg2
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1/HellCatLRLeg2/HellCatLRLeg3
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1/HellCatLRLeg2/HellCatLRLeg3/HellCatLRLegAnkle
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1/HellCatLRLeg2/HellCatLRLeg3/HellCatLRLegAnkle/HellCatLRLegClaw1
+        weight: 1
+      - path: HellCatPelvis/HellCatLRLeg1/HellCatLRLeg2/HellCatLRLeg3/HellCatLRLegAnkle/HellCatLRLegClaw1
+          1
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1/HellCatRRLeg2
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1/HellCatRRLeg2/HellCatRRLeg3
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1/HellCatRRLeg2/HellCatRRLeg3/HellCatRRLegAnkle
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1/HellCatRRLeg2/HellCatRRLeg3/HellCatRRLegAnkle/HellCatRRLegClaw1
+        weight: 1
+      - path: HellCatPelvis/HellCatRRLeg1/HellCatRRLeg2/HellCatRRLeg3/HellCatRRLegAnkle/HellCatRRLegClaw1
+          1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatLFLeg1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatLFLeg1/HellCatLFLeg2
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatLFLeg1/HellCatLFLeg2/HellCatLFLegAnkle
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatLFLeg1/HellCatLFLeg2/HellCatLFLegAnkle/HellCatLFLegClaw1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatLFLeg1/HellCatLFLeg2/HellCatLFLegAnkle/HellCatLFLegClaw2
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatRFLeg1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatRFLeg1/HellCatRFLeg2
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatRFLeg1/HellCatRFLeg2/HellCatRFLegAnkle
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatRFLeg1/HellCatRFLeg2/HellCatRFLegAnkle/HellCatRFLegClaw1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatRFLeg1/HellCatRFLeg2/HellCatRFLegAnkle/HellCatRFLegClaw1
+          1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull/HellCatJaw
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull/HellCatLEar1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull/HellCatLEar1/HellCatLEar2 1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull/HellCatLEar1 1
+        weight: 1
+      - path: HellCatPelvis/HellCatSpine1/HellCatSpine2/HellCatSpine3/HellCatRibCage/HellCatSpine1
+          1/HellCatSpine2 1/HellCatSkull/HellCatLEar1 1/HellCatLEar2
+        weight: 1
+      - path: HellCatPelvis/HellCatTail1
+        weight: 1
+      - path: HellCatPelvis/HellCatTail1/HellCatTail2
+        weight: 1
+      - path: HellCatPelvis/HellCatTail1/HellCatTail2/HellCatTail3
+        weight: 1
+      - path: HellCatPelvis/HellCatTail1/HellCatTail2/HellCatTail3/HellCatTail4
+        weight: 1
+      - path: SK_Hellcat
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

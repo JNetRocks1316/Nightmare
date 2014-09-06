@@ -1,0 +1,2136 @@
+fileFormatVersion: 2
+guid: 2aa1b710a095c10419bfe560f3943f9a
+labels:
+- Character
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bn_Chest
+    100002: Bn_Ear_L
+    100004: Bn_Ear_R
+    100006: Bn_Eye_L
+    100008: Bn_Eye_R
+    100010: Bn_Eyelid_Bottom_L
+    100012: Bn_Eyelid_Bottom_R
+    100014: Bn_Eyelid_Top_L
+    100016: Bn_Eyelid_Top_R
+    100018: Bn_Face_Eyebrow2_L
+    100020: Bn_Face_Eyebrow2_R
+    100022: Bn_Face_MouthCorner_L
+    100024: Bn_Face_MouthCorner_R
+    100026: Bn_Face_Nose
+    100028: Bn_Face_NoseBridge
+    100030: Bn_Jaw
+    100032: Bn_L_Arm01
+    100034: Bn_L_Collar01
+    100036: Bn_L_Forearm01
+    100038: Bn_L_Index_1
+    100040: Bn_L_Middle_1
+    100042: Bn_L_Palm
+    100044: Bn_L_Pinky_1
+    100046: Bn_L_Shin01
+    100048: Bn_L_Thigh01
+    100050: Bn_L_Thumb_1
+    100052: Bn_L_Toe01
+    100054: Bn_Neck1
+    100056: Bn_Neck2
+    100058: Bn_Pelvis
+    100060: Bn_R_Arm01
+    100062: Bn_R_Collar
+    100064: Bn_R_Forearm01
+    100066: Bn_R_Index_1
+    100068: Bn_R_Middle_1
+    100070: Bn_R_Palm
+    100072: Bn_R_Pinky_1
+    100074: Bn_R_Shin01
+    100076: Bn_R_Thigh01
+    100078: Bn_R_Thumb_1
+    100080: Bn_R_Toe01
+    100082: Bn_Skull
+    100084: Bn_Spine1
+    100086: Bn_Spine2
+    100088: Bn_Spine3
+    100090: Bn_Tail1
+    100092: //RootNode
+    100094: SK_Snow_Body
+    400000: Bn_Chest
+    400002: Bn_Ear_L
+    400004: Bn_Ear_R
+    400006: Bn_Eye_L
+    400008: Bn_Eye_R
+    400010: Bn_Eyelid_Bottom_L
+    400012: Bn_Eyelid_Bottom_R
+    400014: Bn_Eyelid_Top_L
+    400016: Bn_Eyelid_Top_R
+    400018: Bn_Face_Eyebrow2_L
+    400020: Bn_Face_Eyebrow2_R
+    400022: Bn_Face_MouthCorner_L
+    400024: Bn_Face_MouthCorner_R
+    400026: Bn_Face_Nose
+    400028: Bn_Face_NoseBridge
+    400030: Bn_Jaw
+    400032: Bn_L_Arm01
+    400034: Bn_L_Collar01
+    400036: Bn_L_Forearm01
+    400038: Bn_L_Index_1
+    400040: Bn_L_Middle_1
+    400042: Bn_L_Palm
+    400044: Bn_L_Pinky_1
+    400046: Bn_L_Shin01
+    400048: Bn_L_Thigh01
+    400050: Bn_L_Thumb_1
+    400052: Bn_L_Toe01
+    400054: Bn_Neck1
+    400056: Bn_Neck2
+    400058: Bn_Pelvis
+    400060: Bn_R_Arm01
+    400062: Bn_R_Collar
+    400064: Bn_R_Forearm01
+    400066: Bn_R_Index_1
+    400068: Bn_R_Middle_1
+    400070: Bn_R_Palm
+    400072: Bn_R_Pinky_1
+    400074: Bn_R_Shin01
+    400076: Bn_R_Thigh01
+    400078: Bn_R_Thumb_1
+    400080: Bn_R_Toe01
+    400082: Bn_Skull
+    400084: Bn_Spine1
+    400086: Bn_Spine2
+    400088: Bn_Spine3
+    400090: Bn_Tail1
+    400092: //RootNode
+    400094: SK_Snow_Body
+    4300000: SK_Snow_Body
+    7400000: Jump
+    7400002: Fall
+    7400004: Land
+    7400006: Idle
+    7400008: RunF
+    7400010: RunFL
+    7400012: RunFR
+    7400014: StrafeL
+    7400016: StrafeR
+    7400018: RunB
+    7400020: RunBL
+    7400022: RunBR
+    7400024: CIdle
+    7400026: ATK_Chain1
+    7400028: ATK_Chain2
+    7400030: ATK_Chain3
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SK_Snow_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    animationCompression: 3
+    animationRotationError: .200000003
+    animationPositionError: .200000003
+    animationScaleError: .200000003
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+    - Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fall
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 27
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Land
+      takeName: Take 001
+      firstFrame: 27
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000000000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunF
+      takeName: Take 001
+      firstFrame: 111
+      lastFrame: 131
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunFL
+      takeName: Take 001
+      firstFrame: 132
+      lastFrame: 152
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunFR
+      takeName: Take 001
+      firstFrame: 153
+      lastFrame: 173
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: StrafeL
+      takeName: Take 001
+      firstFrame: 174
+      lastFrame: 194
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: StrafeR
+      takeName: Take 001
+      firstFrame: 195
+      lastFrame: 215
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunB
+      takeName: Take 001
+      firstFrame: 216
+      lastFrame: 236
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunBL
+      takeName: Take 001
+      firstFrame: 237
+      lastFrame: 257
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunBR
+      takeName: Take 001
+      firstFrame: 258
+      lastFrame: 278
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CIdle
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 628
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ATK_Chain1
+      takeName: Take 001
+      firstFrame: 631
+      lastFrame: 661
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .352641881
+        functionName: ATK_Chain1Slide
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ATK_Chain2
+      takeName: Take 001
+      firstFrame: 662
+      lastFrame: 692
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ATK_Chain3
+      takeName: Take 001
+      firstFrame: 693
+      lastFrame: 723
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Pelvis
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_L_Thigh01/Bn_L_Shin01/Bn_L_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01
+        weight: 1
+      - path: Bn_Pelvis/Bn_R_Thigh01/Bn_R_Shin01/Bn_R_Toe01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_L_Collar01/Bn_L_Arm01/Bn_L_Forearm01/Bn_L_Palm/Bn_L_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Ear_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eye_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Bottom_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Eyelid_Top_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Eyebrow2_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_L
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_MouthCorner_R
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_Nose
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Face_NoseBridge
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_Neck1/Bn_Neck2/Bn_Skull/Bn_Jaw
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Index_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Middle_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Pinky_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Spine1/Bn_Spine2/Bn_Spine3/Bn_Chest/Bn_R_Collar/Bn_R_Arm01/Bn_R_Forearm01/Bn_R_Palm/Bn_R_Thumb_1
+        weight: 1
+      - path: Bn_Pelvis/Bn_Tail1
+        weight: 1
+      - path: SK_Snow_Body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
